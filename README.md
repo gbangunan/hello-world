@@ -1,2 +1,6 @@
 # hello-world
 My First Repository
+
+Hello there... 
+
+Genesis here, starting out with github :) Looking forward to learn lot of things here...
